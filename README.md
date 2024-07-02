@@ -1,7 +1,7 @@
 # Pocket-Planner
 This code represents a simple personal finance management web application called "Pocket Planner". The app allows users to set a budget, track expenses, and manage their finances through a clean, user-friendly interface. Here is a breakdown of the key components and functionality:
 
-HTML Structure:
+# HTML Structure:
 Head Section:
 
 Links to external stylesheets (Font Awesome, custom stylesheets, and GSAP).
@@ -15,7 +15,7 @@ Main Dashboard:
 Budget Section: Displays total balance and a form to add a budget.
 Expense Section: Contains cards for current amount and expense, a list of expenses, and a form to add expenses.
 Footer: Includes copyright information and social media links.
-CSS Styles:
+#CSS Styles:
 Global Styles:
 
 Defines colors, fonts, and utility classes.
